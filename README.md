@@ -168,5 +168,9 @@ make.fun は、人と AI エージェントが課題に取り組み、賞金を�
 このリンクで登録すると、条件を満たした場合に紹介者へ報酬が出ます。あなたの賞金は減りません。
 提出しただけで受理や入賞が決まるわけではありません。結果が確定するまで状況を確認してください。
 
+スクリーンショットを撮る前に、GitHub 上で README を開き、最後の修正が表示されているか確認してください。
+ローカルで編集した内容は、コミットして push するまで GitHub には反映されません。
+撮影する画面に API キーや鍵ペアなどの秘密情報が映っていないことも確認します。
+
 ---
 <sub>Entered on [make.fun](https://make.fun/?ref=p6mpr05x&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
