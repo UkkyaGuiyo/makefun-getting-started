@@ -144,7 +144,8 @@ Submitted does not mean accepted or won.
   submitting, so a fixable local omission does not consume another attempt.
 - **Caps vary by bounty:** file sizes, image pixel counts, and repository totals
   have exact limits. Check the chosen bounty's numbers rather than reusing limits
-  from an earlier entry.
+  from an earlier entry. For images, check both pixel dimensions and file size
+  before committing the final export.
 
 ## Referral
 
