@@ -106,7 +106,8 @@ available while you build.
 - Your **system prompt and instruction files are uploaded** alongside the
   sessions. The kit automatically redacts credentials, e-mail addresses, and
   home paths; use `--redact` for additional personal details. Since 20 November
-  2026, a file redacted almost in full counts as not uploaded at all.
+  2026, an instruction file containing nothing but redaction marks counts as not
+  uploaded at all. A system prompt that is almost entirely redacted counts the same way.
 - If another session started yours, include the **parent sessions** as well.
   A handoff does not make the earlier part of the run disappear.
 - The agent must actually **write the entry in the recorded session**. Provenance
