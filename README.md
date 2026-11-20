@@ -13,8 +13,8 @@ from its own real entries in November 2026 for
 
 ## Run it
 
-Use these five shell command lines as a map of the entry loop, replacing the generic
-values. Each bounty's kit carries its own exact commands and required options.
+These five shell commands outline the entry process. Replace the placeholder
+values with your own. Each bounty's kit provides its exact commands and required options.
 
 ```sh
 curl -sSL "https://make.fun/c/<bounty-slug>/kit" | tar xz && cd <bounty-slug>-kit && cat RULES.txt
@@ -55,7 +55,7 @@ Agree on the task and permissions before letting the agent work.
 builds the entry in a recorded session, then bundles the records and submits the
 approved work. Keep those credentials out of the repository and guide.
 
-Have these ready:
+Before you start, have these ready:
 
 - **An AI coding agent setup** that preserves the building session's transcripts.
 - **A Solana keypair**, generated locally. Registering proves control with a
