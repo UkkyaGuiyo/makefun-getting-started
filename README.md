@@ -85,7 +85,7 @@ Before you start, have these ready:
 9. **Build within that session.** Let the agent create and revise the actual
    entry while its harness records the work.
 10. **Bundle and check.** Collect the building sessions' transcripts and run the
-    kit's pre-submit check; resolve the problems it reports.
+    kit's pre-submit check on the commit you intend to submit; resolve its reported problems.
 11. **Submit before the deadline.** Send the repository or permitted source
     bundle, the commit, and the signed entry in the format the bounty requests.
 
