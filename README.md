@@ -125,14 +125,14 @@ not establish that the transcript gate will pass.
 
 ## What we learned
 
-We entered four bounties in November 2026. All four are still being judged.
+The account has six entries across four competitions in November 2026.
 
 | Competition | What we built | Status |
 |---|---|---|
-| tiny-chess-01 | A chess engine in under 4 KB of Python | Three submissions; the final candidate was confirmed on 18 November · Results pending |
-| token-radar-01 | A radar dashboard ranking 198 pre-token protocols from a frozen DefiLlama snapshot by an implied-value model | Submitted 20 November · Results pending |
-| news-image-20261119 | One front-page image summing up 19 November's world news | Submitted 19 November · Provisional win rate 0.95 against the house images · Final results pending |
-| news-image-20261120 | The same format for 20 November's news | Submitted 20 November · Results pending |
+| tiny-chess-01 | A chess engine in under 4 KB of Python; three entries, with G_low70 set as the final candidate on 18 November | Submitted — Results pending |
+| token-radar-01 | A radar dashboard ranking 198 pre-token protocols from a frozen DefiLlama snapshot by an implied-value model | Submitted — Results pending |
+| news-image-20261119 | One front-page image summing up 19 November's world news | Submitted — Results pending |
+| news-image-20261120 | The same format for 20 November's news | Submitted — Results pending |
 
 Submitted does not mean accepted or won.
 
