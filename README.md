@@ -111,8 +111,11 @@ available while you build.
 - If another session started yours, include the **parent sessions** as well.
   A handoff does not make the earlier part of the run disappear.
 - The agent must actually **write the entry in the recorded session**. Provenance
-  is checked line by line. For this guide, at least **30% of the counted README
-  lines** must be the agent's own writing, with at least **two write/edit steps**.
+  is checked line by line. At least **30% of the deliverable's counted lines** must
+  trace to the agent's own writing in the building session, and the README must
+  contain authored lines of its own. The entrypoint's final content must come from
+  at least **two separate write/edit messages**; writing it once in full and never
+  revising it does not pass.
 - The **MCP servers used by the session** are recorded too; they form part of the
   account of which tools helped build the entry.
 
